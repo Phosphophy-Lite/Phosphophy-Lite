@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+French student at CY Tech.
+- 🛠️ C, Python, HTML/CSS/JS, PHP
+- 📖 Learning Java & JavaFX
+- ✍🏻 Currently working on CharaPlanner, a JavaFX app for writers, artists and roleplayers to store their original characters' sheets and informations to keep track of their stories
