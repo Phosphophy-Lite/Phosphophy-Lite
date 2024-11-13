@@ -20,4 +20,4 @@ French student at CY Tech.
 - 🛠️ C, Python, HTML/CSS/JS, PHP
 - ⚙️ Main IDEs : VSCode, IntelliJ Idea
 - 📖 Learning Java & JavaFX
-- ✍🏻 Currently working on CharaPlanner, a JavaFX app for writers, artists and roleplayers to store their original characters' sheets and informations to keep track of their stories
+- ✍🏻 Currently working on CharaPlanner, a JavaFX app for writers, artists and roleplayers to store their original characters' sheets and informations to keep track of their stories (soon to be published)
